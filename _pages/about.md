@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage!
+Welcome to my homepage! I am currently a Dickson Instructor at the University of Chicago.
 
 My research interests lie in the intersection between ergodic theory and geometry. 
 I use a variety of techniques from different areas of maths, including symbolic dynamics, thermodynamic formalism, analytic number theory and combinatorics 
