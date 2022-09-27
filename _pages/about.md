@@ -15,3 +15,4 @@ I use a variety of techniques from different areas of maths, including symbolic 
 to tackle problems coming from geometry.  The geometrical settings I consider include geometric group theory, the study of Anosov representations as well 
 as flows on manifolds. I am particular interested in rigidity results (i.e. results that classify geometric structures) and counting problems. 
 
+If you'd like to get in contact with me, you can send me an email at 's(my last name)@uchicago.edu'.
