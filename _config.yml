@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Stephen Cantrell/Academic homepage"
 title_separator          : "-"
 name                     : &name "Stephen Cantrell"
-description              : &description "Mathematician based at UChicago"
+description              : &description "Zeeman Lecturer. Mathematician based at The University of Warwick"
 url                      : https://sjcantrell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sjcantrell.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Stephen Cantrell"
   avatar           : "profile2.png"
-  bio              : "Mathematician at UChicago"
-  location         : "University of Chicago"
+  bio              : "Zeeman Lecturer. Mathematician at the University of Warwick"
+  location         : "The University of Warwick"
   employer         :
   pubmed           : 
   googlescholar    : 
